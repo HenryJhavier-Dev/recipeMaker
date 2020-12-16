@@ -2,7 +2,7 @@ import kotlin.system.exitProcess
 
 const val welcomeRecipeMaker : String = ":: Welcome to Recipe Maker ::"
 const val exit               : String = "GoodBye see you"
-const val view_my_recipies   : String = "See my recipes with"
+const val view_my_recipies   : String = "See my recipes"
 const val write_number       : String = "Write the product number"
 val paragraph : String = """
    Select an option
